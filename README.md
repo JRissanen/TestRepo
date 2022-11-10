@@ -1,8 +1,7 @@
 # TestRepo
 Test Repository for Lesson Assignment
 
-# TestRepo
-Test Repository For Lesson Assignment
+Kannattaa katsoa "View Raw", niin näkee, miten eri otsikot ja koodia on kirjoitettu.
 
 ## Heading2
 ### Heading 3
