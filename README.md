@@ -22,4 +22,4 @@ __Vahvistettu teksti__
  
  Kuvan sain lisättyä ihan raahaamalla:
  
-![animals-wildlife-shutterstock_1066200380](https://user-images.githubusercontent.com/116954333/201048369-efc69b54-63b8-4e60-80a3-8275fbbb22e4.jpg)
+![tiger-review-2](https://user-images.githubusercontent.com/116954333/201051155-93af89df-1f46-4700-9599-9d8f54db3e57.jpg)
